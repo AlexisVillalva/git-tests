@@ -45,3 +45,14 @@ body
 #post{
     padding: 2em;
 }
+
+
+#footer{
+    margin: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(155, 65, 65);
+    color: white;
+    padding: 20px;
+}
